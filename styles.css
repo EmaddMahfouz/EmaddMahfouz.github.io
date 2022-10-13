@@ -234,9 +234,6 @@ nav [class*="fa-"]:hover {
     border-left: 1px solid var(--aqua);
     border-top: 1px solid var(--aqua);
     border-radius: 25px;
-    height: 300;
-    width: 450%;
-
 }
 
 
